@@ -1,3 +1,4 @@
+# A code to visualize Covide19 data of Qatif City, Saudi Arabia
 import csv
 from pandas import DataFrame, read_csv
 import matplotlib.pyplot as plt
